@@ -1,4 +1,4 @@
-package com.ling.magic;
+package com.ling.leetCode;
 
 /**
  * @ClassName FrequencySort

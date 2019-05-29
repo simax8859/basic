@@ -1,4 +1,4 @@
-package com.ling.magic.checkValidString;
+package com.ling.leetCode.checkValidString;
 
 /**
  * @ClassName Test
