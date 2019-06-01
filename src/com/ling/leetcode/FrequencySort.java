@@ -1,4 +1,4 @@
-package com.ling.leetCode;
+package com.ling.leetcode;
 
 /**
  * @ClassName FrequencySort

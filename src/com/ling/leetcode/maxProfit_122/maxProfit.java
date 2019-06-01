@@ -1,4 +1,4 @@
-package com.ling.leetCode.maxProfit_122;
+package com.ling.leetcode.maxProfit_122;
 
 /**
  * @ClassName maxProfit_122

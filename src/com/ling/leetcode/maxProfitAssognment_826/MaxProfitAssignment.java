@@ -1,4 +1,4 @@
-package com.ling.leetCode.maxProfitAssognment_826;
+package com.ling.leetcode.maxProfitAssognment_826;
 
 import java.util.HashMap;
 
