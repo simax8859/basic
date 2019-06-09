@@ -1,4 +1,4 @@
-package com.ling.leetcode.countAndSay;
+package com.ling.leetcode.countAndSay_038;
 
 /**
  * @ClassName CountAndSayTest

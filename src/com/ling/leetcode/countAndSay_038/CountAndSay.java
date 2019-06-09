@@ -1,7 +1,6 @@
-package com.ling.leetcode.countAndSay;
+package com.ling.leetcode.countAndSay_038;
 
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * @ClassName CountAndSay
