@@ -52,8 +52,8 @@ public class GenerateParenthesis_22 {
         }
         //这里需要考虑一点，要是第一个方法已经存了str，那么后面那个千万不要进去了，不然又要存一次
         generate(list, n , left, right, str, true);
-        //left等于n的情况下只允许执行一次
-        if (left == n){
+        //只允许执行一次
+        if (left == n && right > left){
             return;
         }
         generate(list, n , left, right, str, false);
