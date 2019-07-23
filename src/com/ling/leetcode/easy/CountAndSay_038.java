@@ -1,15 +1,15 @@
-package com.ling.leetcode.countAndSay_038;
+package com.ling.leetcode.easy;
 
 import java.util.LinkedList;
 
 /**
- * @ClassName CountAndSay
+ * @ClassName CountAndSay_038
  * @Deacription TODO
  * @Author ljxia
  * @Date 2019/06/08 17:21
  * @Version 1.0
  **/
-public class CountAndSay {
+public class CountAndSay_038 {
     public String solution(int n) {
         //惨了，只能想到一层一层循环，好在最多就30
         //n值为1，直接返回“1”

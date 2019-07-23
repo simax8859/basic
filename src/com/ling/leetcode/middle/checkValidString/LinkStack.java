@@ -1,4 +1,4 @@
-package com.ling.leetcode.checkValidString;
+package com.ling.leetcode.middle.checkValidString;
 
 /**
  * @ClassName LinkStack

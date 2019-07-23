@@ -1,15 +1,15 @@
-package com.ling.leetcode.twoSum_001;
+package com.ling.leetcode.easy;
 
 import java.util.HashMap;
 
 /**
- * @ClassName TwoSum
+ * @ClassName TwoSum_001
  * @Deacription TODO
  * @Author ljxia
  * @Date 2019/06/08 15:49
  * @Version 1.0
  **/
-public class TwoSum {
+public class TwoSum_001 {
     public int[] solution(int[] nums, int target) {
         int length = nums.length;
         HashMap<Integer, Integer> map = new HashMap<>(length);

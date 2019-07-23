@@ -1,15 +1,15 @@
-package com.ling.leetcode.findPairs_532;
+package com.ling.leetcode.easy;
 
 import java.util.HashMap;
 
 /**
- * @ClassName FindPairs
+ * @ClassName FindPairs_532
  * @Deacription TODO
  * @Author ljxia
  * @Date 2019/06/04 17:57
  * @Version 1.0
  **/
-public class FindPairs {
+public class FindPairs_532 {
     public int solution(int[] nums, int k){
         //计数，k-diff对
         int count = 0;

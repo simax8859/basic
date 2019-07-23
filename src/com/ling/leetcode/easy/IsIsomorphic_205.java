@@ -1,10 +1,10 @@
-package com.ling.leetcode.isIsomorphic_205;
+package com.ling.leetcode.easy;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @ClassName IsIsomorphic
+ * @ClassName IsIsomorphic_205
  * @Deacription 同构字符串
  * 1.两个字符串变成两个字符串数组，存map,正序反序各执行一遍
  * 2.显然不是最优的办法，但是我TM，发现leetCode更类似于学校考试，多点功利性的思维更容易AC
@@ -12,7 +12,7 @@ import java.util.Map;
  * @Date 2019/5/31 9:06
  * @Version 1.0
  **/
-public class IsIsomorphic {
+public class IsIsomorphic_205 {
 
     public boolean solution(String s, String t) {
         boolean judgePositive = judge(s, t);

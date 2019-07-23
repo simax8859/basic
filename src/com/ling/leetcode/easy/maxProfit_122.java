@@ -1,4 +1,4 @@
-package com.ling.leetcode.maxProfit_122;
+package com.ling.leetcode.easy;
 
 /**
  * @ClassName maxProfit_122
@@ -7,7 +7,7 @@ package com.ling.leetcode.maxProfit_122;
  * @Date 2019/5/30 11:08
  * @Version 1.0
  **/
-public class maxProfit {
+public class maxProfit_122 {
     public int solution(int[] prices){
         int sum = 0;
         int length = prices.length;

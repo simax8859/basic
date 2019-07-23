@@ -1,4 +1,4 @@
-package com.ling.leetcode.search;
+package com.ling.leetcode.easy;
 
 /**
  * @ClassName Search_33

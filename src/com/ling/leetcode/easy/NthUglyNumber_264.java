@@ -1,13 +1,13 @@
-package com.ling.leetcode.nthUglyNumber_264;
+package com.ling.leetcode.easy;
 
 /**
- * @ClassName NthUglyNumber
+ * @ClassName NthUglyNumber_264
  * @Deacription
  * @Author ljxia
  * @Date 2019/06/09 19:48
  * @Version 1.0
  **/
-public class NthUglyNumber {
+public class NthUglyNumber_264 {
 
     public int solution(int n) {
         //存放前n个丑数

@@ -1,5 +1,7 @@
 package com.ling.leetcode;
 
+import com.ling.leetcode.easy.HasGroupsSizeX_914;
+
 /**
  * @ClassName Test
  * @Deacription
@@ -21,5 +23,10 @@ public class Test {
 ////       System.out.println("b==d?"+ (b==d));
 ////       System.out.println("c==d?"+ (c==d));
 ////       System.out.println("a equals c?"+ (a.equals(c)));
+
+        HasGroupsSizeX_914 hasGroupsSizeX_914 = new HasGroupsSizeX_914();
+        int a[] = {1,1,2,2,2,2};
+        boolean solution = hasGroupsSizeX_914.solution(a);
+        System.out.println(solution);
     }
 }
